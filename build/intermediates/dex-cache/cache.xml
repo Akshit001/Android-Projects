@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AKSHIT\.android\build-cache\c89a01fcbc3800cdd186aef00c0e9f7de4aef6a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\TextRecognition\app\build\intermediates\pre-dexed\debug\classes_b94af91c1ab63c1efe7b07c065136bfa9bb6672f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AKSHIT\.android\build-cache\8d20bf4f7569ee0e98e9905141fd44206b9b5292\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\TextRecognition\app\build\intermediates\pre-dexed\debug\classes_e7bcca44301037e856cd789c40c6ece160a5c20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AKSHIT\.android\build-cache\ae1e4367200a3b59e549967b561d99685ec87789\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\TextRecognition\app\build\intermediates\pre-dexed\debug\classes_663478f847126bcd60d46136a886a3e2e2c97bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AKSHIT\.android\build-cache\dedd77a609f9679e3740d38b184b47ea03578df7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\TextRecognition\app\build\intermediates\pre-dexed\debug\classes_25d08164d19f7a73840aa1b2558a04d105358844.jar" />
+    </item>
+
+</items>
